@@ -47,5 +47,5 @@ print_llm_response("What is the capital of France?")```
 
 ### Course 1: Basics
 
-- L4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_4/Lesson_4.ipynb)
+- L1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_4/Lesson_4.ipynb)
 
